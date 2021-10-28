@@ -7,7 +7,6 @@ You can create a Kafka cluster in Confluent Cloud and use it for this example.
 
 ## Usage
 
-- Update [kafka-producer/kafka-producer.go](./kafka-producer/kafka_producer.go) with your kafka configuration.
 - Update [specs](./specs/) if any changes needed.
 - Update [kafka-config.yaml](./kafka-config.yaml) with your kafka configuration.
 - Build source zips,
